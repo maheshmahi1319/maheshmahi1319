@@ -54,7 +54,7 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="maheshmahi" data-color="#40DCA5" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
