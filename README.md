@@ -3,8 +3,6 @@
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mahesh</h1>
 <h3 align="left">An aspiring MeanStack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravchamoli17&label=Profile%20views&color=0e75b6&style=flat" alt="sauravchamoli17" /> </p>
-
 - 🔭 I’m currently working on **MEAN STACK**
 
 - 🌱 I’m currently learning **MEAN STACK**
