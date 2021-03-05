@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MEAN STACK**
 
-- 🌱 I’m currently learning **MEAN STACK**
+- 🌱 I’m currently learning **Next.Js, Graphql, Redis, PostgreSQL...**
 
 - 📫 How to reach me **kasaudhan.mahesh021@gmail.com**
 
