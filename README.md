@@ -1,7 +1,7 @@
 
 
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Mahesh</h1>
-<h3 align="left">An aspiring MeanStack developer from India.</h3>
+<h3 align="left">An aspiring Software developer from India.</h3>
 
 - 🔭 I’m currently working on **MEAN STACK**
 
